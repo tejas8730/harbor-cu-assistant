@@ -1,0 +1,11 @@
+id,member_id,channel,text
+T001,M10422,phone,"My card was charged $84.20 at a store I never visited, I want to dispute it"
+T002,M20871,email,"I moved last month and need to update my mailing address on my checking account"
+T003,M11509,chat,"Why was I charged a $12 monthly maintenance fee? I thought my account was free"
+T004,M30944,phone,"There are two charges from an online retailer for $219.99 on the same day, I only ordered once"
+T005,M18233,chat,"How do I set up a travel notice on my debit card before I fly next week?"
+T006,M27610,email,"My mobile deposit from Tuesday still shows as pending, when will the funds be available?"
+T007,M14087,phone,"What is the fee for a wire transfer to another bank, and is it different for international?"
+T008,M33125,chat,"Someone used my card at a gas station in another state while I was at work, I need to report fraud"
+T009,M22456,email,"I'd like to increase my daily ATM withdrawal limit for a trip"
+T010,M19802,phone,"Can I get a replacement card? Mine stopped working at the terminal today"
